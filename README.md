@@ -1,7 +1,7 @@
 # 📚 DocuMind — AI-Powered Document Intelligence (RAG)
 
 > **Upload documents. Ask questions. Get AI-powered answers** — built with Retrieval-Augmented Generation (RAG), Google Gemini, and Endee Vector DB.
-
+https://drive.google.com/file/d/1IT3eTsSCplovP3ZCDNW2UqwlrNM5HzjG/view?usp=sharing
 ---
 
 ## ✨ Features
@@ -123,4 +123,3 @@ frontend/src/styles/global.css	Complete design system (929 lines)
 📜 License
 MIT License — free to use, modify, and distribute.
 
-Built with ❤️ by Nivethitha Senthilkumar
