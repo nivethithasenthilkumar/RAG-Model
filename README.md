@@ -1,7 +1,10 @@
 # 📚 DocuMind — AI-Powered Document Intelligence (RAG)
 
 > **Upload documents. Ask questions. Get AI-powered answers** — built with Retrieval-Augmented Generation (RAG), Google Gemini, and Endee Vector DB.
-https://drive.google.com/file/d/1IT3eTsSCplovP3ZCDNW2UqwlrNM5HzjG/view?usp=sharing
+
+<img width="1912" height="1075" alt="Screenshot 2026-05-15 113625" src="https://github.com/user-attachments/assets/e6904088-7a1d-46b7-bc4c-5d7b1560c5b3" />
+
+   check out the demo--->>  https://drive.google.com/file/d/1IT3eTsSCplovP3ZCDNW2UqwlrNM5HzjG/view?usp=sharing
 ---
 
 ## ✨ Features
